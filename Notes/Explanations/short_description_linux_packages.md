@@ -1,0 +1,47 @@
+- **bc:** Arbitrary-precision calculator language.
+- **bison:** Parser generator (used with flex).
+- **ca-certificates:** Manages trusted root certificates for SSL/TLS.
+- **cmake:** Cross-platform build system generator.
+- **curl:** Command-line tool for transferring data with URLs.
+- **device-tree-compiler:** Compiles device tree source files (.dts) to binary (.dtb).
+- **dfu-util:** Device Firmware Upgrade utility.
+- **dos2unix:** Converts text files from DOS/Windows line endings to Unix line endings.
+- **efitools:** Tools for working with UEFI firmware and secure boot.
+- **file:** Determines file type.
+- **flex:** Lexical analyzer generator (used with bison).
+- **gdisk:** GPT partition table manipulator.
+- **git:** Distributed version control system.
+- **graphviz:** Graph visualization software.
+- **imagemagick:** Software suite for displaying and manipulating image files.
+- **libelf-dev:** Development files for the ELF object file format library.
+- **libgnutls28-dev:** Development files for the GNU TLS library.
+- **libguestfs-tools:** Tools for accessing and modifying virtual machine disk images.
+- **liblz4-tool:** Command-line tool for LZ4 compression/decompression.
+- **libmpc-dev:** Development files for the Multiprecision Complex Library.
+- **libncurses-dev:** Development files for the ncurses terminal handling library.
+- **libpython3-dev:** Development files for embedding Python 3.
+- **libsdl2-dev:** Development files for the Simple DirectMedia Layer library (SDL2).
+- **libssl-dev:** Development files for the OpenSSL library.
+- **locales:** Manages system locale settings.
+- **lz4:** Fast compression algorithm and command-line tool.
+- **lzma/lzma-alone:** LZMA compression utilities.
+- **mc:** Midnight Commander, a text-based file manager.
+- **openssl:** Toolkit for SSL/TLS and general-purpose cryptography.
+- **openssh-server:** SSH server for remote login.
+- **pkg-config:** Manages compiler and linker flags for libraries.
+- **python3:** Python 3 interpreter.
+- **python3-coverage:** Code coverage measurement tool for Python.
+- **python3-pip:** Python package installer.
+- **python3-pkg-resources:** Part of setuptools, manages Python package resources.
+- **python3-pycryptodome:** Cryptographic library for Python 3.
+- **python3-pyelftools:** Library for parsing and generating ELF and DWARF.
+- **python3-pytest:** Python testing framework.
+- **python3-sphinx-rtd-theme:** Read the Docs theme for Sphinx documentation.
+- **python3-sphinxcontrib.apidoc:** Sphinx extension to generate API documentation.
+- **python3-virtualenv:** Tool for creating isolated Python environments.
+- **swig:** Simplified Wrapper and Interface Generator (connects C/C++ with other languages).
+- **tmux:** Terminal multiplexer.
+- **vim:** Text editor.
+- **wget:** Command-line tool for retrieving files from the web.
+- **xz-utils:** LZMA compression utilities.
+- **zstd:** Zstandard compression algorithm and command-line tool.
