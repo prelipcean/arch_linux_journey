@@ -12,6 +12,7 @@ This project documents my experiences, configurations, and notes after installin
 
 ### How To
 
+- [Docker](Notes/HowTo/docker.md)
 - [Multi-monitor setup](Notes/HowTo/configure_multi_monitor_setup.md)
 - [Change folder rights and owner](Notes/HowTo/change_folder_rights.md)
 
